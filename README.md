@@ -2,4 +2,4 @@
 
 A project which is based on simple binary classification. Here, we tried all Permutations and Combinations of different classification algorithms(Logistic Regression, MLPClassifier) and different hyperparameter values (ngram values, count vectorizer or tfidf vectorizer)
 
-Further details have been explained in detail in the report. 
+Further details have been explained in detail in the nlp_report. 
